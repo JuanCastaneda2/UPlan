@@ -13,7 +13,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity_perfil_propio"></activity>
+        <activity android:name=".activity_unfollow"></activity>
+        <activity android:name=".activity_perfil_seguir" />
+        <activity android:name=".activity_perfil_propio" />
 
         <uses-library
             android:name="com.google.android.wearable"
